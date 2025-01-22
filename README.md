@@ -33,40 +33,25 @@ Este é um formulário de login simples, criado com HTML, CSS e JavaScript. O ob
 
 ## Como Contribuir 🔧
 
-  Sinta-se à vontade para contribuir para o projeto! Se você encontrar algum problema ou quiser adicionar melhorias, basta seguir os passos abaixo:
+Sinta-se à vontade para contribuir para o projeto! Se você encontrar algum problema ou quiser adicionar melhorias, basta seguir os passos abaixo:
 
-   1. Faça um fork deste repositório.
-   2. Crie uma branch para sua modificação (git checkout -b minha-modificacao).
-   3. Faça o commit das suas mudanças (git commit -am 'Adicionando nova funcionalidade').
-   4. Envie para a branch (git push origin minha-modificacao).
-   5. Abra um Pull Request explicando suas alterações.
+1. Faça um fork deste repositório.
+   
+2. Crie uma branch para sua modificação:
+   
+    ```bash
+    git checkout -b minha-modificacao
 
-1. Adicione o arquivo README ao Git:
+4. Faça o commit das suas mudanças:
+   
+    ```bash
+    git commit -am 'Adicionando nova funcionalidade
 
-   Agora, no terminal, adicione o README.md ao repositório Git:
+6. Envie para a branch:
+   
+    ```bash
+    git push origin minha-modificacao
 
-   ```bash
-   git add README.md
-
-2. Faça o commit do README:
-
-   Faça o commit do arquivo README.md com uma mensagem explicativa:
-
-   ```bash
-   git commit -m "Adiciona o README.md"
-
-3. Envie as alterações para o GitHub:
-
-   Envie o commit com o README.md para o repositório no GitHub:
-
-   ```bash
-   git push origin master
-
-Caso esteja usando o branch master, substitua main por master.
-
-4. Verifique o seu repositório no GitHub:
-
-   Agora, acesse o seu repositório no GitHub, e você verá o arquivo README.md exibido na página inicial do seu repositór.
-
+8. Abra um Pull Request explicando suas alterações.
 
 Obrigado por conferir este projeto! Se você encontrou alguma dúvida ou sugestão, fique à vontade para abrir uma issue ou enviar um pull request. Seu feedback é sempre bem-vindo! 😊
