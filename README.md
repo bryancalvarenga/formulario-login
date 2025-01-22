@@ -45,7 +45,7 @@ Sinta-se à vontade para contribuir para o projeto! Se você encontrar algum pro
 4. Faça o commit das suas mudanças:
    
     ```bash
-    git commit -am 'Adicionando nova funcionalidade
+    git commit -am 'Adicionando nova funcionalidade'
 
 6. Envie para a branch:
    
